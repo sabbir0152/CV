@@ -1,0 +1,101 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    font-family:'Roboto',sans-serif;
+    background-color: #fff;
+ }
+ .container{
+    max-width: 1000px;
+    background-color: #c4fff5;
+     margin:0px auto;
+ }  
+ h1,h2,h3,h4,h5,h6{
+   color: rgb(16, 54, 54);
+ }
+ .details{
+   float: right;
+   margin: 0%;
+   padding: 20px;
+ }
+li a{
+   text-decoration: none;
+   color: rgb(47, 107, 87);
+}
+ul{
+   color: rgb(100, 100, 185);
+}
+.pic{
+    height: 100px;
+    width: 120px;
+    border-radius:50%;
+    float: left;
+ }
+
+ .name{
+    float: left;
+    padding: 20px;
+    font-size: 15px;
+ }
+.divclear{
+   clear: both;
+}
+a:hover{
+   text-decoration: underline;
+   color:blueviolet;
+}
+.pinfom{
+float: left;
+max-width: 30%;
+}
+.pf{
+   width: 70%;
+   float: right;
+   color: rgb(47, 107, 87);
+   
+}
+.hr1{
+   border: solid black 2px;
+   margin: 2px;
+}
+.sec1{
+margin: 5px;
+padding: 5px;
+
+}
+.w{
+   float: left;
+}
+.work{
+   float: right;
+ 
+   
+   color: rgb(47, 107, 87);
+   width: 70%;
+}
+#hh{
+ padding-bottom: 1%;
+ color: rgb(25, 135, 231);
+}
+.ht{
+   border: rgb(180, 170, 170) dashed 1px;
+}
+.work ul{
+   color: black;
+}
+.btm{
+   background-color: black;
+   text-align: center;
+   padding: 10px;
+
+}
+.btm a{
+   color:white;
+   text-decoration: none;
+   margin: 20px;
+}
+.btm p{
+   color:white;
+   margin: 20px;
+}
